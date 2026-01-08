@@ -139,20 +139,5 @@ Feature importance analysis shows that wavelength regions corresponding to domin
 
 ---
 
-## 📁 Repository Structure
-The repository structure (notebooks, configuration files, and metadata) is organized directly within the GitHub repository.  
-This README serves as documentation and explanation of the project workflow.
 
----
-
-## 👤 Author
-Author information is provided in a separate file or configuration within the repository, following standard GitHub practices.
-
----
-
-## 📄 License
-License details are defined in the repository’s license or configuration files.  
-This project is intended for educational and research purposes.
-
----
 
