@@ -156,8 +156,3 @@ This project is intended for educational and research purposes.
 
 ---
 
-## ✅ Project Status
-- ✔ End-to-end machine learning pipeline completed  
-- ✔ Scientifically explainable and validated  
-- ✔ Interview and CV ready  
-- ✔ GitHub portfolio ready
